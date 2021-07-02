@@ -12,6 +12,7 @@ Paths we chose for the Robot are as follow: <br>
 * The other parts are related to the robot's controller system and transfer functions. 
 * Use positive angle for TURNING RIGHT and negative angle for TURNING LEFT.
 * In the program, some numbers are seen as coefficients, these numbers are  PID coefficients that were calculated during repeated tests as well as manual calculations which improve the robot's performance. 
+* the MATLAB file is a simulator. Use Arduino file to programm the robot.
 
 # Contact:
 parisima.abdali@gmail.com
