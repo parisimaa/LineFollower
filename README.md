@@ -1,5 +1,5 @@
 # PathDetector
-The aim of this project was assigning a path to an Ultrasonic sensor controlled robot, detecting flaws in the program and designing a PID controller in order to optimaize the its function. <br>
+The aim of this project was assigning a path to an Ultrasonic Sensor Controlled Robot, detecting flaws in the program and designing a PID controller in order to optimaize the its function. <br>
 Paths we chose for the Robot are as follow: <br>
 1. According to the arrows inside the image
 2. A-B-D-F-G-C-D-E-G-H-I-C-B-C-D-A
