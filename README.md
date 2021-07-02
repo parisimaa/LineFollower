@@ -9,7 +9,7 @@ Paths we chose for the Robot are as follow: <br>
 * We used trigonometric relations to find the size of angles and lines.
 * Angels (Radian), Lines (Meter)
 * Change this measurments in the "Robot Movement" part of the code. 
-* The other parts are related to the controller system of the robot and transfer functions. 
+* The other parts are related to the robot's controller system and transfer functions. 
 * Use positive angle for TURNING RIGHT and negative angle for TURNING LEFT.
 * In the program, some numbers are seen as coefficients, these numbers are  PID coefficients that were calculated during repeated tests and improve the robot's performance. 
 
