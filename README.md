@@ -11,3 +11,7 @@ Paths we chose for the Robot are as follow: <br>
 * Change this measurments in the "Robot Movement" part of the code. 
 * The other parts are related to the controller system of the robot and transfer functions. 
 * Use positive angle for TURNING RIGHT and negative angle for TURNING LEFT.
+* In the program, some numbers are seen as coefficients, these numbers are  PID coefficients that were calculated during repeated tests and improve the robot's performance. 
+
+# Contact:
+parisima.abdali@gmail.com
